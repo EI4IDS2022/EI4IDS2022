@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## International Workshop on Enterprise Interoperability for Industrial Data Spaces (EI4IDS 2022)
+**In conjunction with the 11th International Conference on Interoperability for Enterprise Systems and Applications (I-ESA 2022) 23-25 March 2022, Valencia, Spain**
 
-You can use the [editor on GitHub](https://github.com/EI4IDS2022/EI4IDS2022/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This workshop invites scholars and practitioners to submit their current work in Enterprise Interoperability applied to Industrial Data Spaces. The event will promote a discussion on how to enforce data sovereignty on technical, semantic, organizational, and legal levels of Enterprise Interoperability. The following questions will provide anchor points to discuss the advances in the area and based on the presentation of the accepted papers:
+-	How could International Data Spaces enforce data sovereignty? How does it translate into business values or practical requirements?
+-	How data sovereignty impacts Enterprise Interoperability on its four levels (i.e., technical, semantic, organizational, and legal)?
+-	Which solution directions seem most promising to reconcile enterprises' data sharing and sovereignty demands with their actual software capabilities?  
+-	How do data sovereignty-enforcing mechanisms affect trusted business relationships?
+-	What best practices follow from real-world business cases in Enterprise Interoperability for IDS? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Submission Guidelines
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Papers can be submitted via the workshop website hosted on EasyChair (https://easychair.org/conferences/?conf=EI4IDS2022). Submitted papers should be in PDF format, in English, describe original work, and must follow the CEUR guidelines for authors. The paper length should be six pages for a full report and four pages for a short one. The papers will be evaluated based on their scientific and technical contribution as well as their appropriateness, significance, and clarity by at least two members of the Program Committee. Please, consider that at least one author per paper must register for the Workshops by February 18th, 2022. If none of the authors is registered, the paper will not be included in the workshop program and the proceedings. 
 
-```markdown
-Syntax highlighted code block
+### Committees
 
-# Header 1
-## Header 2
-### Header 3
+## Program Committee
+TBA
 
-- Bulleted
-- List
+## Organizing committee
+- Marten van Sinderen (University of Twente, The Netherlands)
+- Patrício de Alencar Silva (Federal Rural University of the Semi-arid Region - UFERSA, Brazil)
+- João Moreira (University of Twente, The Netherlands)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EI4IDS2022/EI4IDS2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+Further Information about this workshopInquiries to: Marten van Sinderen (m.j.vansinderen@utwente.nl).
