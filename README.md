@@ -11,7 +11,7 @@ This workshop invites scholars and practitioners to submit their current work in
 
 ### Submission Guidelines
 
-Papers can be submitted via the workshop website hosted on EasyChair (https://easychair.org/conferences/?conf=EI4IDS2022). Submitted papers should be in PDF format, in English, describe original work, and must follow the CEUR guidelines for authors. The paper length should be six pages for a full report and four pages for a short one. The papers will be evaluated based on their scientific and technical contribution as well as their appropriateness, significance, and clarity by at least two members of the Program Committee. Please, consider that at least one author per paper must register for the Workshops by February 18th, 2022. If none of the authors is registered, the paper will not be included in the workshop program and the proceedings. 
+Papers can be submitted via the workshop website hosted on EasyChair (https://easychair.org/conferences/?conf=ei4ids2022). Submitted papers should be in PDF format, in English, describe original work, and must follow the CEUR guidelines for authors. The paper length should be six pages for a full report and four pages for a short one. The papers will be evaluated based on their scientific and technical contribution as well as their appropriateness, significance, and clarity by at least two members of the Program Committee. Please, consider that at least one author per paper must register for the Workshops by February 18th, 2022. If none of the authors is registered, the paper will not be included in the workshop program and the proceedings. 
 
 ### Committees
 
