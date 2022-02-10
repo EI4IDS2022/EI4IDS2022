@@ -22,6 +22,7 @@ This workshop invites scholars and practitioners to submit their current work in
 ### Committees
 
 #### Program Committee
+- Sebastian Steinbuss, CTO of International Data Spaces Association
 - Luiz Olavo Bonino da Silva Santos, GO FAIR Office, Netherlands
 - Patricia Dockhorn Costa, UFES, Brazil
 - Carlos Enrique Palau Salvador, Valencia University, Spain
