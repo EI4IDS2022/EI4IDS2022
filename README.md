@@ -9,9 +9,15 @@ This workshop invites scholars and practitioners to submit their current work in
 -	What best practices follow from real-world business cases in Enterprise Interoperability for IDS? 
 
 
-### Submission Guidelines
+### Important Dates and Submission Guidelines
+- **Draft paper (extended abstract) submission: February 15th, 2022.**
+- Author notification (on draft): February 28th, 2022.
+- Paper submission (for proceedings): March 15th, 2022.
+- Workshop: March 23rd-24th, 2022.
+- Acceptance notification (for proceedings): March 25th, 2022
 
-Papers can be submitted via the [workshop website hosted on EasyChair](https://easychair.org/conferences/?conf=ei4ids2022). Submitted papers should be in PDF format, in English, describe original work, and must follow the [CEUR guidelines for authors](http://ceur-ws.org/HOWTOSUBMIT.html). The paper length should be six pages for a full report and four pages for a short one. The papers will be evaluated based on their scientific and technical contribution as well as their appropriateness, significance, and clarity by at least two members of the Program Committee. Please, consider that at least one author per paper must register for the Workshops by *February 18th, 2022*. If none of the authors is registered, the paper will not be included in the workshop program and the proceedings. 
+
+**Draft papers should include at least an extended abstract (up to one page)**, and submitted via the [workshop website hosted on EasyChair](https://easychair.org/conferences/?conf=ei4ids2022). Accepted draft papers will be presented in the workshop and invited for paper submission for further publication in I-ESA proceedings. Submitted papers should be in PDF format, in English, describe original work, and must follow the [CEUR guidelines for authors](http://ceur-ws.org/HOWTOSUBMIT.html). The paper length should be six pages for a full report and four pages for a short one. The papers will be evaluated based on their scientific and technical contribution as well as their appropriateness, significance, and clarity by at least two members of the Program Committee. Please, consider that at least one author per paper must register for the Workshops by *February 18th, 2022*. If none of the authors is registered, the paper will not be included in the workshop program and the proceedings. 
 
 ### Committees
 
