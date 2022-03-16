@@ -9,11 +9,34 @@ This workshop invites scholars and practitioners to submit their current work in
 -	What best practices follow from real-world business cases in Enterprise Interoperability for IDS? 
 
 
+### Programme
+
+The workshop will happen on **Wednesday 23rd March 2022 from 15h to 19h (CET, UTC +1) in an hybrid format**. Information about online participation will be published here some days before the workshop. Information about in person participation, please visit I-ESA 2022 page:
+http://i-esa2022.webs.upv.es/index.htm
+
+**Location:** Room 'Aula 2.12'
+
+- 15:00 - 15:10 - Opening (Prof. Marten van Sinderen)
+- **15:10 - 16:00 - Keynote speaker (Silvia Castellvi, IDSA - Title: TBA)**
+- 16:00 - 16:30 - Coffee Break
+- **16:30 - 17:00 - Paper 1: Aligning the Dutch Logistics Data Spaces Infrastructure to the International Data Spaces: A State-of-the-Art Discussion Paper (Jean Paul Sebastian Piest, Patrício De Alencar Silva and Faiza Allah Bukhsh)**
+- **17:00 - 17:30 - Paper 2: Harmonization Profile Assessment for Controlled and Trusted Data Sharing Between Autonomous Data Sharing Domains (Arjan Stoter, Bauke Rietveld, Vincent Jansen, and Harrie Bastiaansen)**
+- 17:30 - 17:40 - Short break
+- **17:40 - 18:10 - Paper 3: Semantic Discovery and Selection of Data Connectors in International Data Spaces (Danniar Reza Firdausy, Patrício de Alencar Silva, Marten van Sinderen and Maria-Eugenia Iacob)**
+- **18:10 - 18:40 - Paper 4: Towards a Digital Twin for Simulation of Organizational and Semantic Interoperability in IDS Ecosystems ( Patrício de Alencar Silva, Reza Fadaie and Marten van Sinderen)**
+- 18:40 - 19:00 - Closing (Marten van Sinderen and João Moreira)
+
+
+I-ESA main conference programme: 
+http://i-esa2022.webs.upv.es/programmes.htm
+
+
+
 ### Important Dates and Submission Guidelines
-- **Draft paper (extended abstract) submission: February 15th, 2022.**
-- Author notification (on draft): February 28th, 2022.
-- Paper submission (for proceedings): March 15th, 2022.
-- Workshop: March 23rd-24th, 2022.
+- ~~Draft paper (extended abstract) submission: February 15th, 2022.~~
+- ~~Author notification (on draft): February 28th, 2022.~~
+- ~~Paper submission (for proceedings): March 15th, 2022.~~
+- Workshop: March 23rd, 2022.
 - Acceptance notification (for proceedings): March 25th, 2022
 
 
