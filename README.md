@@ -16,7 +16,7 @@ The workshop will happen on **Wednesday 23rd March 2022 from 15h to 19h (CET, UT
 **Location:** Room 'Aula 2.12'
 
 - 15:00 - 15:10 - Opening (Prof. Marten van Sinderen)
-- **15:10 - 16:00 - Keynote speaker (Silvia Castellvi, IDSA - Title: TBA)**
+- **15:10 - 16:00 - Keynote speaker (Silvia Castellvi, IDSA - Title: International Data Spaces: Data sovereignty as Indispensable Element of Future Data Ecosystems – IDS Reference Architecture Model)**
 - 16:00 - 16:30 - Coffee Break
 - **16:30 - 17:00 - Paper 1: Aligning the Dutch Logistics Data Spaces Infrastructure to the International Data Spaces: A State-of-the-Art Discussion Paper (Jean Paul Sebastian Piest, Patrício De Alencar Silva and Faiza Allah Bukhsh)**
 - **17:00 - 17:30 - Paper 2: Harmonization Profile Assessment for Controlled and Trusted Data Sharing Between Autonomous Data Sharing Domains (Arjan Stoter, Bauke Rietveld, Vincent Jansen, and Harrie Bastiaansen)**
