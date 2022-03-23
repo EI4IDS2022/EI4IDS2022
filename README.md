@@ -11,7 +11,7 @@ This workshop invites scholars and practitioners to submit their current work in
 
 ### Programme
 
-The workshop will happen on **Wednesday 23rd March 2022 from 15h to 19h (CET, UTC +1) in an hybrid format**. Information about online participation will be published here some days before the workshop. Information about in person participation, please visit [I-ESA 2022 page](http://i-esa2022.webs.upv.es/index.htm).
+The workshop will happen on **Wednesday 23rd March 2022 from 15h to 19h (CET, UTC +1) in an hybrid format**. Information about in person participation, please visit [I-ESA 2022 page](http://i-esa2022.webs.upv.es/index.htm).
 
 **Location:** Room 'Aula 2.12'
 
