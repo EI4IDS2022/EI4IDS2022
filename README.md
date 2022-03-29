@@ -50,7 +50,6 @@ The workshop will happen on **Wednesday 23rd March 2022 from 15h to 19h (CET, UT
 - Luis Ferreira Pires, University of Twente, Netherlands
 - Giancarlo Guizardi, Bolzano University, Italy
 - Maria Iacob, University of Twente, Netherlands
-- Maxime LeFrancois, Institut Mines-Telecom, France
 - Katarzyna Wasielewska, Systems Research Institute, Poland
 
 
